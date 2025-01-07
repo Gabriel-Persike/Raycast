@@ -3,7 +3,7 @@ var walls = [];
 var rays = [];
 Teste
 const init = () => {
-	walls.push(new Wall(0, 0, 600, 0));sdadsa
+	walls.push(new Wall(0, 0, 600, 0));
 	walls.push(new Wall(600, 0, 600, 600));
 	walls.push(new Wall(600, 600, 0, 600));
 	walls.push(new Wall(0, 600, 0, 0));
