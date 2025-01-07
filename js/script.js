@@ -1,7 +1,7 @@
 const ctx = $("#canvas")[0].getContext("2d");
 var walls = [];
 var rays = [];
-
+Teste
 const init = () => {
 	walls.push(new Wall(0, 0, 600, 0));
 	walls.push(new Wall(600, 0, 600, 600));
